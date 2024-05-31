@@ -14,6 +14,12 @@ https://www.opensouthcode.org/conferences/opensouthcode2024
 
 Plazo finalizado. Si quieres participar de algún modo, ponte en contacto con nosotros.
 
+## Código de conducta
+
+> **Be perita, my friend**
+
+Si necesitas más detalles, [código de conducta Berlín](https://berlincodeofconduct.org/es/)
+
 ## Agenda
 
 Ya está publicada la agenda https://www.opensouthcode.org/conferences/opensouthcode2024/schedule
