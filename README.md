@@ -32,7 +32,9 @@ La conferencia es gratuita y de libre acceso.
 No se necesita entrada, pero os agradecemos que os registréis
 en https://www.opensouthcode.org/conferences/opensouthcode2024/register/new y que respondáis a un par de preguntas.
 
-Al igual que el año pasado, las camisetas y el acceso a la fiesta está limitado a _donors_, en unos días se abrirá un EventBrite para estas donaciones.
+Al igual que el año pasado, las camisetas y el acceso a la fiesta está limitado a _donors_, se puede donar aquí:
+
+[![Camisetas OSC](https://github.com/opensouthcode/2024/assets/579705/23ea7d4f-f7cf-41a3-bf5e-5ad8b0d91182 'Donaciones')](https://www.eventbrite.com/e/entradas-opensouthcode-2024-donacion-a-medicina-abierta-al-mundo-913586109647)
 
 ## Fiesta?
 
