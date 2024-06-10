@@ -42,8 +42,4 @@ Acceso limitado a _donors_ (nos exigen control de aforo).
 
 ## OpenSouthKids
 
-El sábado 22 por la mañana haremos actividades para niños de 5-15 años relacionadas con la tecnología.
-
-Así fue el del año pasado: https://github.com/opensouthcode/2023/issues/16
-
-Si quieres colaborar, puedes subir una propuesta al CfP o pregúntale a [@pablonete](https://github.com/pablonete).
+El sábado 22 por la mañana haremos actividades para niños de 5-15 años relacionadas con la tecnología. Más en [OpenSouthKids.md](OpenSouthKids.md)
